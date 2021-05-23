@@ -41,6 +41,6 @@ Se pondrá uso de "Custom nameservers" y se pondrán los dos servidores:
 Ahora en CloudFlare:
 ![16](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Imagenes/DNS/16.png)
 ![17](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Imagenes/DNS/17.png)
-![18](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Imagenes/DNS/81.png)
+![18](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Imagenes/DNS/18.png)
 ![19](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Imagenes/DNS/19.png)
 
