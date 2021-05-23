@@ -111,7 +111,7 @@ Esto permite que se pueda distribuir, de forma automática, el tráfico de las a
 <br>
 
 ## **Documentación de Análisis y diseño**
-[Ver aquí]()
+[Ver aquí](https://github.com/AltoSolid/topicos_proyecto_2/blob/main/Documentacion-analisis-disenio/analisisDisenio.md)
 
 ## **Documentación de la instalación**
 [Ver aquí]()
