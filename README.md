@@ -10,6 +10,7 @@ A lo largo de todo este repositorio se aloja toda la documentación y los pasos 
 - Santiago Hincapié Murillo (shincapiem@eafit.edu.co)
 <br>
 <br>
+
 ### Roles de cada integrante
 - Mateo Sánchez Toro (Rendimiento)
 - Nicolás Roldán Ramírez (Disponibilidad)
